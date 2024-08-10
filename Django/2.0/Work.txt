@@ -1,2 +1,0 @@
-Designing of the Home Page.
-Web page setup for taking data with 0 functionality to store data and provide data.
